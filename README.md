@@ -1,4 +1,7 @@
 ## Welcome to GitHub Pages
+theme:jekyl1-theme-cayman
+title:welcome to the chanyeolczz's homepage!
+description:Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/chanyeolczz/chanyeolczz.gitghub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
